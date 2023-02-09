@@ -1,0 +1,50 @@
+{
+  "name": "react-modal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.2",
+    "@zendeskgarden/css-bedrock": "^9.0.0",
+    "@zendeskgarden/react-accordions": "^8.62.0",
+    "@zendeskgarden/react-avatars": "^8.62.0",
+    "@zendeskgarden/react-breadcrumbs": "^8.62.0",
+    "@zendeskgarden/react-buttons": "^8.62.0",
+    "@zendeskgarden/react-chrome": "^8.62.0",
+    "@zendeskgarden/react-colorpickers": "^8.62.0",
+    "@zendeskgarden/react-datepickers": "^8.62.0",
+    "@zendeskgarden/react-dropdowns": "^8.62.0",
+    "@zendeskgarden/react-forms": "^8.62.0",
+    "@zendeskgarden/react-grid": "^8.62.0",
+    "@zendeskgarden/react-loaders": "^8.62.0",
+    "@zendeskgarden/react-modals": "^8.62.0",
+    "@zendeskgarden/react-notifications": "^8.62.0",
+    "@zendeskgarden/react-pagination": "^8.62.0",
+    "@zendeskgarden/react-tables": "^8.62.0",
+    "@zendeskgarden/react-tabs": "^8.62.0",
+    "@zendeskgarden/react-tags": "^8.62.0",
+    "@zendeskgarden/react-theming": "^8.62.0",
+    "@zendeskgarden/react-tooltips": "^8.62.0",
+    "@zendeskgarden/react-typography": "^8.62.0",
+    "@zendeskgarden/svg-icons": "^6.33.0",
+    "node-gyp": "^9.3.0",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "react-redux": "^8.0.5",
+    "react-scripts": "2.0.4",
+    "styled-components": "^5.3.6"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
